@@ -1,12 +1,39 @@
-# React + Vite
+# 📜 Infinite Scroll App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant **Infinite Scrolling List** built with **React**, featuring smooth animations, stylish UI, and seamless API integration using `axios`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📜 **Infinite Scrolling** – Load more content as you scroll down
+- 🎨 **Attractive UI** – Gradient background, glassmorphism effects & smooth animations
+- 🔥 **API Integration** – Fetches random user data from `randomuser.me`
+- 📱 **Responsive Design** – Works perfectly on all screen sizes
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚡ Usage
+
+- Scroll down to load more users.
+- Data is fetched dynamically from [randomuser.me](https://randomuser.me/).
+- Fully responsive layout with smooth animations.
+
+---
+
+## 🔗 API Used
+
+- **Endpoint:** `https://randomuser.me/api/?results=10&page=<page_number>`
+- Fetches user details including name, email, gender, and profile picture.
+
+---
+
+## 🎨 Styling Highlights
+
+- **Gradient Background Animation**
+- **Glassmorphism Effect on Containers**
+- **Hover Effects & Shadows for Better UX**
+
+---
+![image](https://github.com/user-attachments/assets/2ec2010a-5e7c-40e8-a922-30a7661dc30a)
+
