@@ -35,5 +35,6 @@ An elegant **Infinite Scrolling List** built with **React**, featuring smooth an
 - **Hover Effects & Shadows for Better UX**
 
 ---
-![image](https://github.com/user-attachments/assets/2ec2010a-5e7c-40e8-a922-30a7661dc30a)
+![image](https://github.com/user-attachments/assets/35572a3a-d07a-41c6-994d-c6bad70fe49b)
+
 
